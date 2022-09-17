@@ -10,3 +10,7 @@ The subdirectory <b>weka_models</b> contains the models that have been specifica
 5. Select the dataset or datasets to analyze
 6. (optional) In the Filename field choose the name and directory of the output file
 7. Switch to the Run tab and click on run to start the experiment
+
+![weka](https://github.com/Lisa9601/mw_detection/tree/main/img/weka.png?raw=true)
+
+![experimenter](https://github.com/Lisa9601/mw_detection/tree/main/img/experimenter.png?raw=true)
