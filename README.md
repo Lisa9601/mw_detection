@@ -11,6 +11,6 @@ The subdirectory <b>weka_models</b> contains the models that have been specifica
 6. (optional) In the Filename field choose the name and directory of the output file
 7. Switch to the Run tab and click on run to start the experiment
 
-![weka](https://github.com/Lisa9601/mw_detection/tree/main/img/weka.png?raw=true)
+![weka](https://raw.githubusercontent.com/Lisa9601/mw_detection/main/img/weka.png)
 
-![experimenter](https://github.com/Lisa9601/mw_detection/tree/main/img/experimenter.png?raw=true)
+![experimenter](https://raw.githubusercontent.com/Lisa9601/mw_detection/main/img/experimenter.png)
